@@ -4,6 +4,7 @@
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Adri6336&show_icons=true&theme=tokyonight" alt="My stats" /></a>
 </div>
 
+<br> </br>
 
 Heyo! I'm a B.S. Software Development student looking to try and get some computer skills to hopefully earn a livable wage before the *inevitable* human obsolescence. This GitHub account, while def tryna show off some of my progress to potential employers, is mostly a place for me to share the things I work on out of boredom or procrastination. 
 
