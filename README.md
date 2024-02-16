@@ -14,5 +14,3 @@
 I'm a B.S. Software Engineering student striving to hone my computer science prowess and secure a vibrant career in tech before automation takes the wheel. This GitHub repository is a canvas for my learning journey, showcasing my development to future employers, and doubling as my playground for innovative experiments born from sheer curiosity or the occasional procrastination.
 
 Primarily, my tools of choice are **Python**, celebrated for its simplicity and broad-reaching applications, and **Kotlin**, my gateway to crafting sleek Android applications. My exploratory nature leads me to dabble in other technologies, too. I wielded **Go Lang** once to set up an AES-256 cipher—simply because the Python alternative didn't work with the available steganography tool.
-
-*I believe in versatility and the magic that happens when different technologies are blended to create something truly unique. If you're interested in tech musings, pizza-fueled coding sessions, or just want to exchange thoughts, my inbox (and GitHub) is open.*
