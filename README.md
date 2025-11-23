@@ -9,6 +9,3 @@
 
 <br/>
 
-### 🍕
-
-The main languages I work with are Python (for its ease and versatility) and Kotlin (so I can make Android apps every now and then). Else to those, I may use other languages sporadically if I find a need (like once I used Go Lang to create an AES-256 cipher because the available Python module would append a plaintext signature to the file, messing up my ability to use steganography a bit).
