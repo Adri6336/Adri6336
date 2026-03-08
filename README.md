@@ -18,7 +18,6 @@
   <hr />
 </div>
 
-<div>
 <iframe
 src="https://adri6336.github.io/resume/"
 width="100%"
@@ -26,5 +25,3 @@ height="400px"
 title="Embedded HTML test"
 sandbox="allow-scripts"
 ></iframe>
-
-</div>
