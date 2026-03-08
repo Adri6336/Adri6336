@@ -17,5 +17,3 @@
   
   <hr />
 </div>
-
-![Resume](https://adri6336.github.io/resume/)
