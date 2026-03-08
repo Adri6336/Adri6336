@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 120" width="100%" height="100%">
+  <defs>
+    <!-- Import a blocky, digital terminal font -->
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&amp;display=swap');
+      
+      .digital-text {
+        font-family: 'Share Tech Mono', 'Courier New', Courier, monospace;
+        text-anchor: middle;
+        /* Ensures the text remains easily selectable by the cursor */
+        pointer-events: auto; 
+        user-select: auto;
+      }
+      
+      .text-primary {
+        fill: #00e5ff;
+        font-size: 24px;
+        letter-spacing: 1px;
+      }
+      
+      .text-highlight {
+        fill: #08f500;
+        font-size: 28px;
+        font-weight: bold;
+        letter-spacing: 2px;
+      }
+
+      .text-secondary {
+        fill: #85a5ff;
+        font-size: 22px;
+      }
+    </style>
+  </defs>
+
+  <!-- Dark Space/Terminal Background -->
+  <rect width="100%" height="100%" fill="#050914"/>
+
+  <!-- Horizon Line -->
+  <line x1="0" y1="10" x2="900" y2="10" stroke="#2c75ff" stroke-width="2" opacity="0.8" />
+  <line x1="0" y1="110" x2="900" y2="110" stroke="#2c75ff" stroke-width="2" opacity="0.8" />
+
+  <!-- Center Aligned Selectable Text -->
+  <g class="digital-text">
+    <text x="450" y="35" class="text-primary">Get in touch with me at</text>
+    <text x="450" y="65" class="text-highlight">avillegas.work@protonmail.com</text>
+    <text x="450" y="95" class="text-primary">Open to paid opportunities.</text>
+  </g>
+</svg>
