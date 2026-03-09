@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="contact.svg" alt="Contact card" width="900">
+  <a href="mailto:avillegas.work@protonmail.com" target="_blank"><img src="contact.svg" alt="Contact me" width="900"/></a>
   <img src="animation.svg" alt="Rain scene" width="900"/>
   <a href="https://adri6336.github.io/resume/" target="_blank"><img src="resume.svg" alt="Check out my resume" width="900"/></a>
 </div>
