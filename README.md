@@ -12,7 +12,7 @@
   
   | | |
   |---|---|
-  | **Contact** | <a href="mailto:avillegas.work@protonmail.com">avillegas.work@protonmail.com</a> |
+  | **Contact** | avillegas.work@protonmail.com |
   | **Recent Project** | <a href="https://chessyciv.com/" target='_blank'>ChessyCiv: 10x10 Turn Based Strategy Game</a> |
   
   <hr />
